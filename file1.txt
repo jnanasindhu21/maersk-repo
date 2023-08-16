@@ -2,3 +2,4 @@ This is file 1.
 line 2
 line 3 added again
 branch 2 changes
+..
